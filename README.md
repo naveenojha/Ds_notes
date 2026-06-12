@@ -9,15 +9,15 @@
 |---|---|---|
 | 1 | Linear Regression | ✅ Done |
 | 2 | Logistic Regression | ✅ Done |
-| 3 | Decision Trees | Batch 2 |
-| 4 | Random Forest | Batch 2 |
-| 5 | Gradient Boosting (XGBoost/LightGBM/CatBoost) | Batch 3 (largest chapter) |
-| 6 | SVM | Batch 4 |
-| 7 | KNN | Batch 4 |
-| 8 | Naive Bayes | Batch 4 |
-| 9 | K-Means | Batch 5 |
-| 10 | PCA | Batch 5 |
-| 11 | SVD | Batch 5 |
+| 3 | Decision Trees | ✅ Done |
+| 4 | Random Forest |  ✅ Done|
+| 5 | Gradient Boosting (XGBoost/LightGBM/CatBoost) | ✅ Done |
+| 6 | SVM | ✅ Done |
+| 7 | KNN | ✅ Done |
+| 8 | Naive Bayes | ✅ Done |
+| 9 | K-Means |✅ Done |
+| 10 | PCA | ✅ Done |
+| 11 | SVD | ✅ Done |
 | 12 | Neural Networks (MLP) | Batch 6 |
 | 13 | CNN | Batch 6 |
 | 14 | RNN | Batch 7 |
